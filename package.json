@@ -1,0 +1,22 @@
+{
+  "name": "playwright-automation-suite",
+  "version": "1.0.0",
+  "description": "Automated testing suite using Playwright",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmalcorn/playwright-automation-suite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmalcorn/playwright-automation-suite/issues"
+  },
+  "homepage": "https://github.com/mmalcorn/playwright-automation-suite#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.17"
+  }
+}
