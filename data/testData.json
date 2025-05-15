@@ -1,0 +1,50 @@
+[
+  {
+    "id": "TC1",
+    "description": "Verify 'Implement user authentication' in 'To Do' for Web Application",
+    "projectName": "Web Application",
+    "cardTitle": "Implement user authentication",
+    "columnName": "To Do",
+    "tags": ["Feature", "High Priority"]
+  },
+  {
+    "id": "TC2",
+    "description": "Verify 'Fix navigation bug' in 'To Do' for Web Application",
+    "projectName": "Web Application",
+    "cardTitle": "Fix navigation bug",
+    "columnName": "To Do",
+    "tags": ["Bug"]
+  },
+  {
+    "id": "TC3",
+    "description": "Verify 'Design system updates' in 'In Progress' for Web Application",
+    "projectName": "Web Application",
+    "cardTitle": "Design system updates",
+    "columnName": "In Progress",
+    "tags": ["Design"]
+  },
+  {
+    "id": "TC4",
+    "description": "Verify 'Push notification system' in 'To Do' for Mobile Application",
+    "projectName": "Mobile Application",
+    "cardTitle": "Push notification system",
+    "columnName": "To Do",
+    "tags": ["Feature"]
+  },
+  {
+    "id": "TC5",
+    "description": "Verify 'Offline mode' in 'In Progress' for Mobile Application",
+    "projectName": "Mobile Application",
+    "cardTitle": "Offline mode",
+    "columnName": "In Progress",
+    "tags": ["Feature", "High Priority"]
+  },
+  {
+    "id": "TC6",
+    "description": "Verify 'App icon design' in 'Done' for Mobile Application",
+    "projectName": "Mobile Application",
+    "cardTitle": "App icon design",
+    "columnName": "Done",
+    "tags": ["Design"]
+  }
+]
